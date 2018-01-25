@@ -1,0 +1,29 @@
+// MIS 420 Notes 1/23/2018
+
+AT&T made UNIX
+Popularity took off after the internet and Linux
+
+Linux is open source UNIX
+
+Protocol-Set of rules for connecting and sending data
+
+HTTP - hyper text transfer protocol
+SMTP - simple mail transfer protocol
+SSH  - secure shell 
+FTP  - file transfer protocol
+TCP - transmission control protocol: one of the main protocols of the internet protocol suite. Used by applications that require guaranteed delivery.
+IP : Internet Protocol. The method or protocol by which data is sent from one computer to another.
+
+IPV6 is the 6th version of the internet protocol.
+IPV4 came before IPV6.
+Main difference is that IPV4 is 32-bit while IPV6 is 128-bit.
+
+HTML is the markup language that HTTP uses mostly to transport data.
+
+Telnet is an 8-bit protocol used on the internet or lans to provide bidirectional interactive text oriented communication.
+
+Unix shells include Bash, fish, ksh, tcsh, and zsh. These shells have slight differences in grammar.
+
+Single User OS: Windows 7, 10, vista ect. OSX.
+Multi-user shells: Red Hat Linux, Ubuntu Server, Windows Server. 
+

@@ -1,0 +1,9 @@
+**UNIX COMMANDS**
+
+cd - change dir
+mkdir - make dir
+touch - create file
+ls - list files
+ls -a list all files including hidden
+whoami - list user
+who - list all users
