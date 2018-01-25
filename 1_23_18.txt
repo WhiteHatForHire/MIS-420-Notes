@@ -11,8 +11,8 @@ HTTP - hyper text transfer protocol
 SMTP - simple mail transfer protocol
 SSH  - secure shell 
 FTP  - file transfer protocol
-TCP - transmission control protocol: one of the main protocols of the internet protocol suite. Used by applications that require guaranteed delivery.
-IP : Internet Protocol. The method or protocol by which data is sent from one computer to another.
+TCP  - transmission control protocol: one of the main protocols of the internet protocol suite. Used by applications that require guaranteed delivery.
+IP   - Internet Protocol. The method or protocol by which data is sent from one computer to another.
 
 IPV6 is the 6th version of the internet protocol.
 IPV4 came before IPV6.

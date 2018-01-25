@@ -1,4 +1,4 @@
-**UNIX COMMANDS**
+/*UNIX COMMANDS*/
 
 cd - change dir
 mkdir  : make dir
@@ -14,3 +14,23 @@ cat file1 > file2 : write file one output into file 2
 cat file1 | less  : pipe into a file that can be scrolled with space, b, and q (quit)
 
 cat .bash_profile : read .bash_profile
+
+
+/* NOTES */
+
+For every network there are rules (protocol) and topology (nodes and how they are connected)
+1995 : internet becomes commercialized
+
+Packet switching : data transfered dividing data into packets and passing them through circuits
+circuit switching: like a telephone landline, wire segments are linked
+
+TCP : Creates packet for the service you are using
+IP  : Provides the address for packets to be delivered to 
+
+Ip number:
+class-
+A
+B
+C
+D/E 
+
