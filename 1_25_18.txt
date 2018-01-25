@@ -1,9 +1,16 @@
 **UNIX COMMANDS**
 
 cd - change dir
-mkdir - make dir
-touch - create file
-ls - list files
-ls -a list all files including hidden
-whoami - list user
-who - list all users
+mkdir  : make dir
+touch  : create file
+ls     : list files
+ls     : a list all files including hidden
+whoami : list user
+who    : list all users
+ls -l  : list files in long format
+ls -la : list all files in long format
+cat    : read contents of text files
+cat file1 > file2 : write file one output into file 2
+cat file1 | less  : pipe into a file that can be scrolled with space, b, and q (quit)
+
+cat .bash_profile : read .bash_profile
